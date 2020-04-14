@@ -1,0 +1,25 @@
+#head {
+  border: solid black 3px;
+  width: 100%;
+  background-color: blue;
+  text-align: center;
+  height: 7em;
+}
+
+h1 {
+  font-size: 5rem;
+  color: white;
+}
+
+
+span {
+  color:blue;
+  text-transform: capitalize;
+}
+
+.textBox {
+  border: solid black 3px;
+  border-radius: 2%;
+  height: 5rem;
+  width: 5%;
+}
